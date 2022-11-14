@@ -1,5 +1,5 @@
 # THE-CLONER1
-rm -rf OLD-CRACK
+$ rm -rf THE-CLONER1
 
 $ git clone https://github.com/Termux-king1/THE-CLONER1
 
